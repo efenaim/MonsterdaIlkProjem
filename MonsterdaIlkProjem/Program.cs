@@ -9,6 +9,11 @@ namespace MonsterdaIlkProjem
             Console.WriteLine("Hello World!");
             Console.WriteLine("Merhama Monster");
             Console.WriteLine("asd");
+
+
+
+
+            Console.WriteLine("yeni geliştirme");
         }
     }
 }

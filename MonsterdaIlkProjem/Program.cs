@@ -11,6 +11,9 @@ namespace MonsterdaIlkProjem
             Console.WriteLine("smsng");
             Console.WriteLine("asd");
             Console.WriteLine("pull edip push ettim");
+            Console.WriteLine("bunu fetch et samsung");
+            Console.WriteLine("fetch nok");
+            Console.WriteLine("bunu fetchden sonra çalıstır");
         }
     }
 }

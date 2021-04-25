@@ -8,6 +8,7 @@ namespace MonsterdaIlkProjem
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Merhama Monster");
+            Console.WriteLine("asd");
         }
     }
 }

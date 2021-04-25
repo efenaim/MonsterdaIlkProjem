@@ -10,6 +10,7 @@ namespace MonsterdaIlkProjem
             Console.WriteLine("Merhaba Monster");
             Console.WriteLine("smsng");
             Console.WriteLine("asd");
+            Console.WriteLine("pull edip push ettim");
         }
     }
 }

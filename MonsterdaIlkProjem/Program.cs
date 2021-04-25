@@ -13,6 +13,7 @@ namespace MonsterdaIlkProjem
             Console.WriteLine("pull edip push ettim");
             Console.WriteLine("bunu fetch et samsung");
             Console.WriteLine("fetch nok");
+            Console.WriteLine("geçerli");
         }
     }
 }
